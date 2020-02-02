@@ -38,7 +38,7 @@ namespace kursovik
 
         static double f(double x)
         {
-            return x * x * Math.Sqrt(4 - x * x);
+            return x * Math.Sqrt(1 + x);
         }
 
     }
