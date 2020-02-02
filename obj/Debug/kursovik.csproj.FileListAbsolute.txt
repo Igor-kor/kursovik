@@ -1,0 +1,6 @@
+G:\Desktop\учеба\программирование\мой курсовик версия для всех\kursovik\obj\Debug\kursovik.csprojAssemblyReference.cache
+G:\Desktop\учеба\программирование\мой курсовик версия для всех\kursovik\bin\Debug\kursovik.exe.config
+G:\Desktop\учеба\программирование\мой курсовик версия для всех\kursovik\bin\Debug\kursovik.exe
+G:\Desktop\учеба\программирование\мой курсовик версия для всех\kursovik\bin\Debug\kursovik.pdb
+G:\Desktop\учеба\программирование\мой курсовик версия для всех\kursovik\obj\Debug\kursovik.exe
+G:\Desktop\учеба\программирование\мой курсовик версия для всех\kursovik\obj\Debug\kursovik.pdb
